@@ -4,7 +4,7 @@ A sample application to find and save a list of your favorite movies.
 ## Quick Start
 1. Clone the repo and go to that directory
     ```bash
-    git clone https://github.com/clarkio/ios-favorite-movies.git
+    git clone https://github.com/sylvance/ios-favorite-movies.git
     cd ios-favorite-movies
     ```
 
